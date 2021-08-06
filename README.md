@@ -1,6 +1,4 @@
-### Olá 👋
-
-Eu sou o Bruno
+### Olá Eu sou o Bruno 
 
 - 🔭 Trabalhando com desenvolvimento de sistemas web
 - 🌱 Estudando atualmente Java
