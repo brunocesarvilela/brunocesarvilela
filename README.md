@@ -1,8 +1,5 @@
 ### Olá Eu sou o Bruno 
 
-- 🔭 Trabalhando com desenvolvimento de sistemas web
-- 🌱 Estudando atualmente Java
-
 <div>
   <a href="https://github.com/brunocesarvilela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocesarvilela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
